@@ -1,5 +1,5 @@
 # Theory of Computation
-# Reduction-of-Grammar
+### Reduction-of-Grammar
 The above Jupyter Notebook file contains the python code to reduces a context free grammar.
 It has 3 parts:
   1) Eliminating Epsilon transitions (if any).
